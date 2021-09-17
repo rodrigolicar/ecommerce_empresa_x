@@ -19,5 +19,8 @@ Melhoria 1, Melhoria 2
 ### Funcionalidades a desenvolver
 
 1. Área de membros
+    1. Área 1
+    2. Área 2
+    3. Área 3
 2. Integração com pagamentos
 3. Bônus
