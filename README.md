@@ -35,4 +35,7 @@ Melhoria 1, Melhoria 2
 
 #### Links úteis
 
-![Google](https://www.google.com.br)
+[Google](https://www.google.com.br)
+
+[www.ibm.com.br](www.ibm.com.br)
+
