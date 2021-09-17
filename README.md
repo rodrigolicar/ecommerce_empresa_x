@@ -48,3 +48,10 @@ function soma(a, b){
     return a + b;
 }
 ```
+
+
+#### Lista de tarefas
+
+- [x] Programar boletos
+- []  Programa integração
+- [x] Gerar código de barras
