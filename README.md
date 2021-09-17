@@ -39,4 +39,4 @@ Melhoria 1, Melhoria 2
 
 [www.ibm.com.br](www.ibm.com.br)
 
-[![Linkedin](https://thumbs.dreamstime.com/z/%C3%ADcone-do-logotipo-linkedin-logo-popular-m%C3%ADdia-social-elemento-vetor-ilustra%C3%A7%C3%B5es-da-internet-em-branco-166811981.jpg)](https://www.linkedin.com/in/rodrigo-licar-gois-492618106/)
+[![Linkedin](https://logospng.org/wp-content/uploads/linkedin.png)](https://www.linkedin.com/in/rodrigo-licar-gois-492618106/)
