@@ -32,3 +32,7 @@ Melhoria 1, Melhoria 2
 #### Imagem externa
 
 ![Logo exterena](https://res.cloudinary.com/practicaldev/image/fetch/s--KCRN0Wuf--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/356/ceb8dc0f-a77b-4f89-84da-52216a4286e1.png)
+
+#### Links úteis
+
+![Google](www.google.com.br)
