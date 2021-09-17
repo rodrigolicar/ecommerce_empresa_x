@@ -39,4 +39,4 @@ Melhoria 1, Melhoria 2
 
 [www.ibm.com.br](www.ibm.com.br)
 
-![[Linkedin](https://www.google.com/imgres?imgurl=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F04%2FLinkedin-Logo.png&imgrefurl=https%3A%2F%2Flogosmarcas.net%2Flinkedin-logo%2F&tbnid=SC7D-bV_xg_5pM&vet=12ahUKEwi3ybei94TzAhVxBbkGHcWTCnYQMygAegUIARCyAQ..i&docid=6MShbWuig8WgzM&w=3840&h=2160&q=linkedin%20logo&ved=2ahUKEwi3ybei94TzAhVxBbkGHcWTCnYQMygAegUIARCyAQ)]
+![[Linkedin](https://thumbs.dreamstime.com/z/%C3%ADcone-do-logotipo-linkedin-logo-popular-m%C3%ADdia-social-elemento-vetor-ilustra%C3%A7%C3%B5es-da-internet-em-branco-166811981.jpg)]
