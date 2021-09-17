@@ -44,7 +44,6 @@ Melhoria 1, Melhoria 2
 #### Código da função soma
 
 '''javascript
-
 function soma(a, b){
     return a + b;
 }
