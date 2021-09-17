@@ -27,7 +27,7 @@ Melhoria 1, Melhoria 2
 
 #### Imagem local
 
-![Logo Cobol](download.png)
+![Logo Cobol](img/download.png)
 
 #### Imagem externa
 
