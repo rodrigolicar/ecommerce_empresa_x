@@ -40,3 +40,12 @@ Melhoria 1, Melhoria 2
 [www.ibm.com.br](www.ibm.com.br)
 
 [![Linkedin](https://logospng.org/wp-content/uploads/linkedin.png)](https://www.linkedin.com/in/rodrigo-licar-gois-492618106/)
+
+#### Código da função soma
+
+'''javascript
+
+function soma(a, b){
+    return a + b;
+}
+'''
