@@ -52,6 +52,6 @@ function soma(a, b){
 
 #### Lista de tarefas
 
-- [x] Programar boletos
-- []  Programa integração
-- [x] Gerar código de barras
+-[x] Programar boletos
+-[]  Programa integração
+-[x] Gerar código de barras
